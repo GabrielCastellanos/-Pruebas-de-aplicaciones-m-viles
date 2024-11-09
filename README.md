@@ -14,4 +14,8 @@ Crearemos una lista de comprobación y probaremos la aplicación en un emulador.
 * Android Studio
 * Google Sheets
 
-  
+# Conlusiones
+Gracias a la herramienta de Android Studio es posible realizar y abarcar mas pruebas:
+* Pruebas en diferentes dispositivos y versiones:permite simular diferentes dispositivos, tamaños de pantalla y versiones de Android.
+* Pruebas en diferentes configuraciones: Podemos ajustar la configuración del emulador (como el uso de memoria, CPU, y almacenamiento) para probar cómo se comporta la app en dispositivos con diferentes capacidades.
+  Android Studio es una herramienta muy poderosa para QA testers que trabajan en aplicaciones móviles, ya que proporciona un conjunto de herramientas que ayudan a realizar pruebas funcionales, de rendimiento, automatizadas y de compatibilidad de manera más eficiente.
